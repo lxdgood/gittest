@@ -1,4 +1,5 @@
-hello git
-hello java
-hello linex
 hello word
+hello java
+hello git 
+hello everyday
+hello everyone
