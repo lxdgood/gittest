@@ -3,3 +3,6 @@ hello java
 hello git 
 hello everyday
 hello everyone
+你好吗
+我很好
+
